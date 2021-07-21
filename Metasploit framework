@@ -1,0 +1,23 @@
+- 👋 Hi, I’m @NOOBHACKERSUMPA
+
+apt-get upgrade 
+
+pkg install git
+
+pkg install python 
+
+pkg install python2
+
+pip install lolcat
+
+termux-setup-storage
+
+git clone https://github.com/noob-hackers/m-wiz
+ 
+ls
+
+cd m-wiz
+
+ls
+
+bash m-wiz.sh
