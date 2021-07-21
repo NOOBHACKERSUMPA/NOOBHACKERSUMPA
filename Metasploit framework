@@ -12,8 +12,8 @@ pip install lolcat
 
 termux-setup-storage
 
-git clone https://github.com/noob-hackers/m-wiz
- 
+
+git clone https://github.com/NOOBHACKERSUMPA/NOOBHACKERSUMPA.git
 ls
 
 cd m-wiz
